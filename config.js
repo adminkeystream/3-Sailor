@@ -1,12 +1,12 @@
 (function() {
     const DATA = {
-        brand: "Brand Name",
-        owner: "Owner Name",
-        email: "info@example.com",
-        phone: "+1 234 567 890",
-        phoneClean: "+1234567890",
-        address: "Address",
-        copyright: "(c) 2026 Brand Name. All Rights Reserved."
+        brand: "Ray Borrow Studio",
+        owner: "Murat Koç",
+        email: "info@borrowedray.online",
+        phone: "+90 559 174 55 28",
+        phoneClean: "+905591745528",
+        address: "Antalya, Muratpaşa, Vatan Cd. No: 12",
+        copyright: "(c) 2026 Ray Borrow Studio. All Rights Reserved."
     };
 
     function apply() {
