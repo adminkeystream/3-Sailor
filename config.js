@@ -1,11 +1,11 @@
 (function() {
     const DATA = {
         brand: "Ray Borrow Studio",
-        owner: "Murat Koç",
+        owner: "Eric Lefebvre",
         email: "info@borrowedray.online",
-        phone: "+90 559 174 55 28",
-        phoneClean: "+905591745528",
-        address: "Antalya, Muratpaşa, Vatan Cd. No: 12",
+        phone: "+33 9 51 65 20 98",
+        phoneClean: "+33951652098",
+        address: "Provence-Alpes-Cote d\\\'Azur, Marseille, Boulevard Des Salyens 20",
         copyright: "(c) 2026 Ray Borrow Studio. All Rights Reserved."
     };
 
